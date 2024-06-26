@@ -1,0 +1,5 @@
+twilio==9.2.1
+numpy==1.26.2
+Flask==3.0.3
+spacy==3.7.5
+pandas==1.4.4
